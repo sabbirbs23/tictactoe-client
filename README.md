@@ -12,6 +12,8 @@ cd tictactoe-client
 yarn install
 # Start the dev server
 yarn start
+# Run tests
+yarn test
 ```
 
 Go to http://localhost:3000 in your browser and you should see the landing page of the game.
