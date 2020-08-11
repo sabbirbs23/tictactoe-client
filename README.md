@@ -3,7 +3,7 @@ Multiplayer TicTacToe Client
 TicTacToe client using ReactJS, Redux and redux-thunk.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-```
+```bash
 # Clone the repo
 git clone https://github.com/sabbirbs23/tictactoe-client.git
 # Move into the cloned repo
