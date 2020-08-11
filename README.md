@@ -1,5 +1,5 @@
-# tictactoe-client
-Multiplayer TicTacToe Client
+# Multiplayer TicTacToe Client
+
 TicTacToe client using ReactJS, Redux and redux-thunk.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
