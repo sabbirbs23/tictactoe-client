@@ -1,0 +1,5 @@
+export const RESET_STATE = 'RESET_STATE';
+export const START_GAME = 'START_GAME';
+export const CLICK_BOARD = 'CLICKED_ON_BOARD';
+export const CHECK_IS_GAME_RUNNING = 'CHECK_IS_GAME_RUNNING';
+export const SAVE_HISTORY_ARRAY = 'SAVE_HISTORY_ARRAY';

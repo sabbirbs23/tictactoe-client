@@ -1,0 +1,31 @@
+.game {
+  .gameInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    .gameId {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    .currentTurn {
+      margin-bottom: 10px;
+    }
+  }
+
+  .boardWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .scoreBoardWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

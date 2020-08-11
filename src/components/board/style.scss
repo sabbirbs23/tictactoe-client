@@ -1,0 +1,21 @@
+.board {
+  width: 300px;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.cell {
+  width: 95px;
+  border: 1px solid #fff;
+  height: 95px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color: transparent;
+  color: #fff;
+
+  &:disabled {
+    cursor: default;
+  }
+}
