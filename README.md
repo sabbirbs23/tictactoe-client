@@ -1,3 +1,5 @@
+# tictactoe-client
+TicTacToe client using ReactJS, Redux and redux-thunk.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
